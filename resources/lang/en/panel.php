@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'Adminpanel-Email-Username',
+    'site_title' => 'AdminPanel',
 ];
